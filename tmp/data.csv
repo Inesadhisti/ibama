@@ -1,0 +1,45 @@
+NO,Kode,NAMA,,,Keterangan,Kategori,Terjual,Terbeli,Sisa,,,,Avatar
+1,1,Form penyetoran,,,1 kertas,Barang Cetakan,0,0,0,,,,dist/upload/
+2,2,Form penarikan,,,keterangan,kertas,2,100,198,,,,dist/upload/
+3,3,Form Pembayaran Jasa (Hijau),,,keterangan,kertas,0,0,100,,,,dist/upload/
+4,4,Form Pembayaran Jasa (Biru),,,keterangan,kertas,0,0,100,,,,dist/upload/
+5,5,Form Pembukaan Rekening Perorangan,,,keterangan,kertas,0,0,100,,,,dist/upload/
+6,6,Form Pembukaan Rekening Giro,,,keterangan,kertas,0,0,100,,,,dist/upload/
+7,7,Form Pemindahbukuan,,,keterangan,kertas,0,0,100,,,,dist/upload/
+8,8,Form Penutupan Rekening,,,keterangan,kertas,0,0,100,,,,dist/upload/
+9,9,Form Pembayaran Pajak (MPN),,,keterangan,kertas,0,0,100,,,,dist/upload/
+10,10,Surat Perintah Membayar,,,keterangan,kertas,0,0,100,,,,dist/upload/
+11,11,Bukti Setor,,,keterangan,kertas,10,0,90,,,,dist/upload/
+12,12,Form Pencetakan Giro Bulanan,,,keterangan,kertas,0,0,100,,,,dist/upload/
+13,13,Form BTN Siap,,,keterangan,kertas,1,0,99,,,,dist/upload/
+14,14,Spesimen Tanda Tangan,,,keterangan,kertas,0,0,100,,,,dist/upload/
+15,15,Form Countiunus 1 ply besar,,,keterangan,kertas,2,0,98,,,,dist/upload/
+16,16,Form Countiunus 2 ply kecil,,,keterangan,kertas,0,0,100,,,,dist/upload/
+17,17,Ban uang Rp. 1.000,,,keterangan,kertas,0,0,100,,,,dist/upload/
+18,18,Ban uang Rp. 2.000,,,keterangan,kertas,0,0,100,,,,dist/upload/
+19,19,Ban uang Rp. 5.000,,,keterangan,kertas,15,0,85,,,,dist/upload/
+20,20,Ban uang Rp. 10.000,,,keterangan,kertas,0,0,100,,,,dist/upload/
+21,21,Ban uang Rp. 20.000,,,keterangan,kertas,0,0,100,,,,dist/upload/
+22,22,Ban uang Rp. 50.000,,,keterangan,kertas,0,0,100,,,,dist/upload/
+23,23,Ban uang Rp. 100.000,,,keterangan,kertas,1,0,99,,,,dist/upload/
+24,24,Buku Tabungan Ku,,,keterangan,kertas,0,0,100,,,,dist/upload/
+25,25,Buku Tabungan Batara,,,keterangan,kertas,0,0,100,,,,dist/upload/
+26,26,Buku Tabungan Simple,,,keterangan,kertas,0,0,100,,,,dist/upload/
+27,27,Buku Tabungan Junior,,,keterangan,kertas,0,0,100,,,,dist/upload/
+28,28,Buku Tabungan Prima,,,keterangan,kertas,0,0,100,,,,dist/upload/
+29,29,Buku E-batara pos,,,keterangan,kertas,0,0,100,,,,dist/upload/
+30,30,Amplop uang kecil,,,keterangan,kertas,0,0,100,,,,dist/upload/
+31,31,Amplop uang sedang,,,keterangan,kertas,0,0,100,,,,dist/upload/
+32,32,Amplop uang besar,,,keterangan,kertas,0,0,100,,,,dist/upload/
+33,33,Amplop surat coklat kecil,,,keterangan,kertas,0,0,100,,,,dist/upload/
+34,34,Amplop surat coklat sedang,,,keterangan,kertas,0,0,100,,,,dist/upload/
+35,35,Amplop surat coklat besar,,,keterangan,kertas,0,0,100,,,,dist/upload/
+36,36,Amplop kaca kiri,,,keterangan,kertas,3,0,97,,,,dist/upload/
+37,37,Amplop kaca kanan,,,keterangan,kertas,0,0,100,,,,dist/upload/
+38,38,Amplop tanpa kaca,,,keterangan,kertas,2,0,98,,,,dist/upload/
+39,39,Form Pembukaan e-batara pos,,,keterangan,kertas,0,0,100,,,,dist/upload/
+40,40,Form Penyetoran e-batara pos,,,keterangan,kertas,0,0,100,,,,dist/upload/
+41,41,Kertas ATM,,,keterangan,kertas,0,0,100,,,,dist/upload/
+42,42,Kertas HVS A4,,,keterangan,kertas,5,0,95,,,,dist/upload/
+43,43,MAP,,,keterangan,kertas,0,0,100,,,,dist/upload/
+44,44,aduh,,,keterangan,kertas,0,10,90,,,,
