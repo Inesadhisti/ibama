@@ -3,6 +3,7 @@
 error_reporting(E_ALL ^ E_DEPRECATED);
 $servername = "localhost";
 $username = "root";
+$password ="iadhisti20";
 $dbname="ibama";
 
       $koneksi = mysqli_connect('localhost', 'root', '');
